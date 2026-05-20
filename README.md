@@ -29,11 +29,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utk4rsh92&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utk4rsh92&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=utk4rsh92&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=utk4rsh92&theme=github-dark&hide_border=true" />
 </p>
 
 ---
